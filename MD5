@@ -1,0 +1,15 @@
+2b600bc02c93209cee2d24d983c788d3 *DESCRIPTION
+dcb6f902ed0733db8aa15ff649d3f395 *NAMESPACE
+5bf50c0b7dbf913cb971966a32393c49 *R/Ispline.R
+ef2c762d9ea06b03294976632f6d002c *R/PH.ICsurv.EM.R
+e3821634ee55298099584a1974a6cb73 *R/PH.Louis.ICsurv.R
+37782246b764338787e3d6ee4f4aa112 *R/fast.PH.ICsurv.EM.R
+8c89a4f1a74b471c47707aa132e53689 *R/fast.PH.Louis.ICsurv.R
+3983b0280af82e9dee0968ebbf74b6cf *data/Hemophilia.rda
+35937798fa7870453286da904f533738 *man/Hemophilia.Rd
+b23f1f49ee5fcd66534f6b03e9f9baa3 *man/ICsurv-package.Rd
+d1554fb95d904fcb77b0a7b3e082e7c2 *man/Ispline.Rd
+a6c1e5d46b3fe57746a3deecc7ace4f7 *man/PH.ICsurv.EM.Rd
+f752b9bc9978214e5c94944fa637a945 *man/PH.Louis.ICsurv.Rd
+49e611b63a32b0e50dbad1cb77388ab5 *man/fast.PH.ICsurv.EM.Rd
+e90849b498d40eda1e24b69fbb1cba57 *man/fast.PH.Louis.ICsurv.Rd

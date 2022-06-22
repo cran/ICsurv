@@ -1,2 +1,3 @@
 import(MASS, matrixcalc)
 exportPattern("^[[:alpha:]]+")
+importFrom("stats", "optim", "quantile")
